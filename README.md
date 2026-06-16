@@ -8,6 +8,7 @@ A curated list of the best free online calculators for math, finance, health, fi
 - [Date & Time](#date--time)
 
 ##  Finance Calculators
+- [UK Tax Calculator](https://mini-tools.uk/tax) — Estimate UK income tax and take-home pay
 - [Loan Calculator](https://smartcalculatortool.com/loan-calculator/) — Calculate monthly payments and interest
 - [EMI Calculator](https://smartcalculatortool.com/emi-calculator/) — Calculate equated monthly instalments
 - [Mortgage Calculator](https://smartcalculatortool.com/mortgage-calculator/) — Plan home loan repayments
